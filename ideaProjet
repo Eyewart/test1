@@ -2,11 +2,14 @@ Yop' Hass
 
 Voici qq idées projets en python:
 
-1-Plus ou moins (sdz)
-2-Parser la valeur du BTC
+Level: NOOB: 1-Plus ou moins (sdz)
+Level: "Easy"2-Parser la valeur du BTC
+Level: "Easy" 2-Bis: (pas forcément en python) prendre le git status et le parser (besoin pour le taf)
+Level: "Easy - .json" mais "MIDDLE - dessiner"
 3-A partir d'un fichier .json (que je peux fournir), dessiner une topology du reseau
-4-Suite de l'exercice 2: coder un bot trader de BTC (on frôle l'AI ici :D)
-
+LEVEL: "HARD" 4-Suite de l'exercice 2: coder un bot trader de BTC (on frôle l'AI ici :D)
++Idée recette de Mathilde (input liste d'ingrédients, output recette possible)
++Idée de parser le site de Bxl-Airport en arrivée pour savoir quelles destination est désservie independemment des compagnies
 Autre idée? c'est bienvenu!
 5-dessiner fractale de Mandelbrot? C'était l'énoncé d'un projet en C à l'unif
 6-Créer un jeu TRON ou un mario Sandoku comme sur SDZ
