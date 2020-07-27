@@ -16,8 +16,9 @@ URL = "https://courscryptomonnaies.com/bitcoin"
 r = requests.get(URL)
 
 soup=BeautifulSoup(r.content,'html.parser')
+print(soup)
 str=soup.find("div",text="price")
-print(str)
+#print(str)
 
 
 
