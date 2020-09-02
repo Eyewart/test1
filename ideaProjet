@@ -2,31 +2,24 @@ Yop' Hass
 
 Voici qq idées projets en python:
 
-Level: NOOB: 1-Plus ou moins (sdz)
-Level: "Easy"2-Parser la valeur du BTC
-Level: "Easy" 2-Bis: (pas forcément en python) prendre le git status et le parser (besoin pour le taf)
+A) LEVEL EASY
+
+1-Plus ou moins (sdz)
+2-Parser la valeur du BTC - 100%
+2-Bis: (pas forcément en python) prendre le git status et le parser (besoin pour le taf)
 Level: "Easy - .json" mais "MIDDLE - dessiner"
 3-A partir d'un fichier .json (que je peux fournir), dessiner une topology du reseau
-LEVEL: "HARD" 4-Suite de l'exercice 2: coder un bot trader de BTC (on frôle l'AI ici :D)
-+Idée recette de Mathilde (input liste d'ingrédients, output recette possible)
-+Idée de parser le site de Bxl-Airport en arrivée pour savoir quelles destination est désservie independemment des compagnies
+
+B) LEVEL MIDDLE
+
+4-Suite de l'exercice 2: coder un bot qui trade du BTC via des analyses techniques du cours (on frôle l'AI ici :D)
+5-Idée de parser le site de Bxl-Airport en arrivée pour savoir quelles destination est désservie independemment des compagnies
 Autre idée? c'est bienvenu!
-5-dessiner fractale de Mandelbrot? C'était l'énoncé d'un projet en C à l'unif
-6-Créer un jeu TRON ou un mario Sandoku comme sur SDZ
+6-Dessiner fractale de Mandelbrot? C'était l'énoncé d'un projet en C à l'unif - 100%
+7-Créer un jeu TRON ou un mario Sandoku comme sur SDZ
+8-Créer un jeu du pendu avec une interface graphique (tkinter?)
+
+C) LEVEL HIGH
 
 ===================================
 
-Yop Francois,
-
-J'ai numéroté les exercices et j'ai ajouté un 4ième. Il faudra que tu me donnes + e détail sur le 3!
-Aujourd'hui et les prochains jours je fais encore des tutos SDZ.
-
-Je te tiens au courant quand j'ai fini tout ça, on pourra commencer :D!
-Dis moi si le timing te parait bien (ou pas) ;-)!
-
-Pour le .json, en gros, c'est un language qui est nativement supporté par python, donc assez facile. 
-Ce que je voudrais c'est qu'en prenant le json en input, il "dessiner" un .png/.jpg qui represente ces valeurs
-Ca peut etre assez stylé et utile au taf en fait :-)
-
-Pour le bot, d'AI, ça dépend comment tu veux le faire, soit "vraiment" smart
-soit simplement si le BTC est < de X €, on achète, si pas, on fait rien ou on revend
